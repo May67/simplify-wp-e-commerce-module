@@ -1,3 +1,6 @@
+## 1.0.1 (February 16, 2017)
+- Add usergent string
+
 ## 1.0.0 (October 16, 2011)
 
 Inital release of wp e-commerce merchant gateway:

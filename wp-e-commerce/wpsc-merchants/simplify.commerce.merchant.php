@@ -38,7 +38,7 @@ require_once(WPSC_FILE_PATH.'/wpsc-merchants/library/simplifycommerce/Simplify.p
 
 // Using WPSC API v2.0
 $nzshpcrt_gateways[$num]['api_version'] = 2.0;
-$nzshpcrt_gateways[$num]['name'] = __( 'Simplify Commerce v1.0', 'wpsc' );
+$nzshpcrt_gateways[$num]['name'] = __( 'Simplify Commerce v1.0.1', 'wpsc' );
 $nzshpcrt_gateways[$num]['image'] = WPSC_URL . '/images/cc.gif';
 $nzshpcrt_gateways[$num]['internalname'] = 'wpsc_merchant_simplify';
 $nzshpcrt_gateways[$num]['class_name'] = 'wpsc_merchant_simplify';

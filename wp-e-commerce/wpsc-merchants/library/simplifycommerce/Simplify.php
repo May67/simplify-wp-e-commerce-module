@@ -54,7 +54,7 @@ class Simplify
     /**
      * @var string $userAgent User-agent string send with requests.
      */
-    public static $userAgent = null;
+    public static $userAgent = 'wp-e-commerce-1.0.1';
 
 }
 
