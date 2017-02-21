@@ -147,8 +147,6 @@ class wpsc_merchant_simplify extends wpsc_merchant {
 		    }
 		    $this->return_to_checkout();
 			exit();
-			break;
-
 		}
 	}
 }
